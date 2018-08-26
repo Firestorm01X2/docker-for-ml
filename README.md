@@ -80,7 +80,7 @@ And execute:
 ```
 docker build -t docker-for-ml .
 ```
-Then start thic container with a command:
+Then start thiы container with a command:
 ```
 docker run —name docker-for-ml -p 8888:8888 -v "$PWD/notebooks:/opt/notebooks" -d docker-for-ml
 ```
