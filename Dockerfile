@@ -28,8 +28,8 @@ ENV PATH /root/anaconda3/bin:$PATH
 
 # Installing libraries for data science
 RUN pip install opencv-python
+RUN conda install -c conda-forge tensorflow 
 RUN conda install keras --yes
-RUN conda install -c menpo opencv3 --yes
 RUN conda install -c conda-forge dlib --yes
 RUN conda install -c anaconda scikit-learn --yes 
 RUN conda install -c anaconda pandas --yes
