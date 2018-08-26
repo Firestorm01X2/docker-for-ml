@@ -1,7 +1,7 @@
 # Docker Container for ML
 
 ![logos](https://github.com/mixonij/mixonij.github.io/blob/master/Fenteziyny_kollazh_v_Fotoshope_Khaos.png)
-> **Hello! This is Docker container based on Ubuntu for Data Science and ML.**
+> **Hello! This is Docker container based on Ubuntu & Anaconda for Data Science and ML.**
 
 
 ## Libraries
