@@ -1,6 +1,21 @@
 # Docker Container for ML
 
-> Hello! This is Docker container based on Ubuntu for Data Science and ML.
+![logos](https://github.com/mixonij/mixonij.github.io/blob/master/Fenteziyny_kollazh_v_Fotoshope_Khaos.png)
+> **Hello! This is Docker container based on Ubuntu for Data Science and ML.**
+
+
+## Libraries
+  * OpenCV
+  * TensorFlow
+  * Theano
+  * Keras
+  * Dlib
+  * Scikit-Learn
+  * PyTorch
+  * Pandas
+  * XGBoost
+  * NLTK
+
 
 ## Getting Started
 
@@ -15,7 +30,7 @@ To build & run this container you need Docker.
   ```
   $ sudo apt-get update
   ```
-2. Install packages to allow apt to use a repository over HTTPS:
+2. Install packages to allow ```apt``` to use a repository over HTTPS:
 ```
 $ sudo apt-get install \
     apt-transport-https \
@@ -78,7 +93,8 @@ docker rm -f docker-for-ml
 
 To use it you need open in your browser:
 [http://localhost:8888/](http://localhost:8888/)
-![alt text](https://github.com/mixonij/mixonij.github.io/blob/master/1_GnmclzyCI79tPC-c5UEgQg.png)
+
+![screenshot](https://github.com/mixonij/mixonij.github.io/blob/master/1_GnmclzyCI79tPC-c5UEgQg.png)
 
 Password: **root**
 
