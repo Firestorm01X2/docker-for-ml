@@ -8,7 +8,7 @@ RUN apt-get update && yes|apt-get upgrade
 RUN apt-get install -y wget bzip2
 
 # For OpenCV
-RUN apt-get install libgtk2.0-dev --yes
+#RUN apt-get install libgtk2.0-dev --yes
 
 # Anaconda
 RUN wget https://repo.continuum.io/archive/Anaconda3-5.0.1-Linux-x86_64.sh
