@@ -1,5 +1,10 @@
 # Docker Container for ML
 
+Мир одеял разрушен сном
+Но в чьем-то напряженном взоре
+Маячит в сумраке ночном
+Окном разрезанное море
+
 ![logos](https://github.com/mixonij/mixonij.github.io/blob/master/Fenteziyny_kollazh_v_Fotoshope_Khaos.png)
 > **Hello! This is Docker container based on Ubuntu & Anaconda for Data Science and ML.**
 
